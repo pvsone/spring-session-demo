@@ -20,3 +20,7 @@ http://docs.spring.io/spring-session/docs/current/reference/html5/guides/boot.ht
 http://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-session.html
 
 https://sdqali.in/blog/2016/07/16/controlling-redis-auto-configuration-for-spring-boot-session/
+
+
+### Appendix
+
